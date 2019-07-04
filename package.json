@@ -2,7 +2,7 @@
   "name": "facerecoproject",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/QasimJaffry/facereconProject",
+  "homepage": "https://QasimJaffry.github.io/facereconProject/",
 
   "dependencies": {
     "clarifai": "^2.9.0",
