@@ -1,0 +1,13 @@
+.form{
+	width: 700px;
+
+}
+
+.adjust2 {
+	display: flex;
+	justify-content: flex-start;
+}
+
+button{
+	background-color: #23074d;
+}
